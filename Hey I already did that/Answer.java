@@ -1,14 +1,7 @@
 import java.util.Arrays;
 
 
-/**
- *
- */
 
-/**
- * @author beethovenzhang
- *
- */
 public class Answer {
 	public static void main(String[] args) {
 		System.out.println(nextID("210022",3));
